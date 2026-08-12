@@ -22,10 +22,10 @@ export default function Page() {
           <p className="text-xs text-muted-foreground">
             Need assistance with your order? Reach out directly to{' '}
             <a
-              href="mailto:support@opuslabs.co"
+              href="mailto:opuslabs.support@gmail.com"
               className="text-titanium underline-offset-4 transition-colors hover:text-champagne-light hover:underline"
             >
-              support@opuslabs.co
+              opuslabs.support@gmail.com
             </a>
           </p>
           <p className="text-[11px] uppercase tracking-[0.2em] text-muted-foreground/60">
